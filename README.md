@@ -2,6 +2,11 @@
 
 Frontend приложение для [конфигуратора](https://github.com/vikovaro/ConfiguratorBackend).
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/vikovaro/ConfiguratorFrontend/refs/heads/main/project-images/1.jpg"/>
+    <img src="https://raw.githubusercontent.com/vikovaro/ConfiguratorFrontend/refs/heads/main/project-images/2.jpg"/>
+    <img src="https://raw.githubusercontent.com/vikovaro/ConfiguratorFrontend/refs/heads/main/project-images/3.jpg"/>
+</p>
 
 ## Используемые технологии
 - **Next.js** (App Router)
